@@ -35,7 +35,7 @@ This repository contains the frontend code for an e-commerce website. The applic
 4. Start the development server:
   ```bash
   npm start
-  ```
+  ```.
 
 ## Folder Structure
 
