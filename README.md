@@ -1,4 +1,4 @@
-# E-Commerce Frontend
+# E-Commerce Frontend Website
 
 This repository contains the frontend code for an e-commerce website. The application is built to provide a seamless shopping experience for users.
 
